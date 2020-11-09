@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DrawerActivity</string>
+    <string name="app_name">Kotlin_Project</string>
     <string name="title_home">Accueil</string>
     <string name="title_dashboard">Recycler View</string>
     <string name="title_notifications">Informations</string>
