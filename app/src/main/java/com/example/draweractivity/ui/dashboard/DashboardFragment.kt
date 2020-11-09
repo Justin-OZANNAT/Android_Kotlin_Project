@@ -39,11 +39,7 @@ class DashboardFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         andVersionRecyclerView.layoutManager = LinearLayoutManager(this.context)
         andVersionRecyclerView.adapter = AndVersionAdapter(items)
-
-
     }
-
-
 
 
     val items = arrayOf(
@@ -76,10 +72,6 @@ class DashboardFragment : Fragment() {
         AndVersion("    "),
         AndVersion("    "),
         AndVersion("    "),
-
-
-
-
 
         )
 }
