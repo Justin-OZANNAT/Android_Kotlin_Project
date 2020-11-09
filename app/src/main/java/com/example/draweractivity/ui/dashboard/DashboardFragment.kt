@@ -47,9 +47,39 @@ class DashboardFragment : Fragment() {
 
 
     val items = arrayOf(
+        AndVersion("R"),
+        AndVersion("E"),
+        AndVersion("C"),
+        AndVersion("Y"),
+        AndVersion("C"),
+        AndVersion("L"),
+        AndVersion("E"),
+        AndVersion("R"),
+        AndVersion("    "),
+        AndVersion("V"),
+        AndVersion("I"),
+        AndVersion("E"),
+        AndVersion("W"),
+        AndVersion("!"),
+        AndVersion("!"),
+
+        AndVersion("How bad is it?"),
+
+        AndVersion("We don't know"),
+
+        AndVersion("That's bad"),
+
+        AndVersion("We have to hurry"),
+
         AndVersion("Lollipop"),
-        AndVersion("Lollipop"),
-        AndVersion("Banana"),
-        AndVersion("Oreo")
-    )
+        AndVersion("    "),
+        AndVersion("    "),
+        AndVersion("    "),
+        AndVersion("    "),
+
+
+
+
+
+        )
 }
